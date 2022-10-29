@@ -1,0 +1,25 @@
+{
+  "name": "wasm-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balarayen/wasm-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": "wasm-cli.js",
+  "bugs": {
+    "url": "https://github.com/balarayen/wasm-cli/issues"
+  },
+  "homepage": "https://github.com/balarayen/wasm-cli#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "yargs": "^17.6.0"
+  }
+}
